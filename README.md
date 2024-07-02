@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Anna</h1>
 <h3>A junior front-end developer and media designer based in Düsseldorf.</h3>
 
-- 🌱&nbsp I’m currently learning **TypeScript & React.**
+- 🌱 I’m currently learning **TypeScript & React.**
 
-- 👩🏼‍🏫&nbsp I have a background in **advertising, media and marketing**.
+- 👩🏼‍🏫 &nbsp I have a background in **advertising, media and marketing**.
 
-- 🌍&nbsp  I'm a passionate backpacker who lived and studied in five foreign countries.
+- 🌍 I'm a passionate backpacker who lived and studied in five foreign countries.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
