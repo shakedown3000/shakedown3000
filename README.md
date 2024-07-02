@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript & React.**
 
-- 👩🏼‍🏫 &nbsp I have a background in **advertising, media and marketing**.
+- 👩🏼‍🏫 I have a background in **advertising, media and marketing**.
 
 - 🌍 I'm a passionate backpacker who lived and studied in five foreign countries.
 
