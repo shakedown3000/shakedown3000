@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **TypeScript & React.**
 
-- ⚡ **I'm a passionate backpacker who lived and studied in five foreign countries.**
+- 👩🏼‍🏫 I have a background in advertising, media and marketing.
+
+- 🌍 **I'm a passionate backpacker who lived and studied in five foreign countries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
