@@ -7,9 +7,16 @@
 
 - 🌍 I'm a passionate backpacker who lived and studied in five foreign countries.
 
-<h4>My favorite projects:</h4>
+<h4>Some of my recent projects:</h4>
 
-- <a href="https://shakedown3000.github.io/project_fakeshop/)">Online Shop</a> (Frontend-Project with Fake Shop Items API)
+- 🍏 <a href="https://calorycalculator.netlify.app/">Nutrition Consulting Website with Calory Calculator</a> (React Project)
+- 🛍️ <a href="https://shakedown3000.github.io/project_fakeshop/)">Online Fake Shop</a> (Team-Project / Frontendproject with Fake Shop Items API)
+- 🤓 <a href="https://shakedown3000.github.io/typescript_quiz/">TypeScript Quiz</a>
+- 🛋️ <a href="https://shakedown3000.github.io/project_new_interior/">New Interior</> (CSS/HTML Final Group Project) 
+- 👜 <a href="https://shakedown3000.github.io/the_design_shop/">The Design Shop</a>
+- 🔥 <a href="https://shakedown3000.github.io/california_calling/">California Calling</a> (CSS/HTML Project)
+- 🖼️ <a href="https://shakedown3000.github.io/the_design_project/">The Design Project</a> (Frontend CSS/HTML Project)
+- 👗 <a href="https://shakedown3000.github.io/project_alomy/">Project Alomy</a> (HTML/CSS)
 
 
 <h3 align="left">Connect with me:</h3>
