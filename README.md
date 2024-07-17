@@ -7,6 +7,11 @@
 
 - 🌍 I'm a passionate backpacker who lived and studied in five foreign countries.
 
+<h4>My favorite projects:</h4>
+
+- <a href="https://shakedown3000.github.io/project_fakeshop/)">Online Shop</a> (Frontend-Project with Fake Shop Items API)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/annalaube90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annalaube90/" height="30" width="40" /></a>
