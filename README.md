@@ -10,7 +10,7 @@
 <h4>Some of my recent projects:</h4>
 
 - 🍏 <a href="https://calorycalculator.netlify.app/">Nutrition Consulting Website with Calory Calculator</a> (React Project)
-- 🛍️ <a href="https://shakedown3000.github.io/project_fakeshop/)">Online Fake Shop</a> (Team-Project / Frontendproject with Fake Shop Items API)
+- 🛍️ <a href="https://shakedown3000.github.io/project_fakeshop/">Online Fake Shop</a> (Team-Project / Frontendproject with Fake Shop Items API)
 - 🤓 <a href="https://shakedown3000.github.io/typescript_quiz/">TypeScript Quiz</a>
 - 🛋️ <a href="https://shakedown3000.github.io/project_new_interior/">New Interior</a> (CSS/HTML Final Group Project) 
 - 👜 <a href="https://shakedown3000.github.io/the_design_shop/">The Design Shop</a>
