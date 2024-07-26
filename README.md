@@ -10,6 +10,7 @@
 <h4>Some of my recent projects:</h4>
 
 - 🍏 <a href="https://calorycalculator.netlify.app/">Nutrition Consulting Website with Calory Calculator</a> (React Project)
+- 🍺 <a href="https://projectbeerapp.netlify.app/">Beer App</a> (React Project)
 - ⌚️ <a href="https://projecttimeless.netlify.app/">Project Timeless</a> (React/CSS Project | Luxury Watches Website)
 - 🛍️ <a href="https://shakedown3000.github.io/project_fakeshop/">Online Fake Shop</a> (Team-Project / Frontendproject with Fake Shop Items API)
 - ✂️ <a href="https://rockpaperscissorsshakedown.netlify.app/">Rock Paper Scissors Game</a> (React)
