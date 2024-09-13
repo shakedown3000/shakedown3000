@@ -9,6 +9,7 @@
 
 <h4>Some of my recent projects:</h4>
 
+- 📊 <a href="https://projectfinco.netlify.app/login">Finco Expense Tracker</a> (Final Group Project React/Supabase)
 - 🎬 <a href="https://ourmoviedatabaseapp.netlify.app/">Movie Database App</a> (Final Group Project / React)
 - 🍏 <a href="https://calorycalculator.netlify.app/">Nutrition Consulting Website with Calory Calculator</a> (React Project)
 - 🍺 <a href="https://projectbeerapp.netlify.app/">Beer App</a> (React Project)
