@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Anna</h1>
-<h3>A junior front-end developer and media designer based in Düsseldorf.</h3>
 
-- 🌱 I’m currently learning **TypeScript & React.**
+<h3>A junior front-end developer at in a design agency based in Düsseldorf.</h3>
+- 🌱 I’m working on client projects with TypeScript and React and am currently learning **Next.js.**
 
-- 👩🏼‍🏫 I have a background in **advertising, media and marketing**.
+- 👩🏼‍🏫 I have a background in **advertising, design, media and marketing**.
 
 - 🌍 I'm a passionate backpacker who lived and studied in five foreign countries.
 
