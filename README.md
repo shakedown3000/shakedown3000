@@ -1,15 +1,14 @@
 <h1>Hi 👋, I'm Anna</h1>
 
-<h3>A junior front-end developer working in a design agency based in Düsseldorf.</h3>
+<h3>A junior front-end developer working in a design agency based in Neuss/Germany called <a href="https://d-art-digital.de/de">d'art digital</a>. I create digital solutions for clients with a focus on trade fairs and events.</h3>
 
-
-- 🌱 I’m working on client projects with TypeScript and React and am currently learning **Next.js.**
+- 🌱 My tech stack focus: **TypeScript, React, Next.js, Sass**.
 
 - 👩🏼‍🏫 I have a background in **advertising, design, media and marketing**.
 
 - 🌍 I'm a passionate backpacker who lived and studied in five foreign countries.
 
-<h4>Some of my recent projects:</h4>
+<h4>I learned coding through a 6-month fulltime front end development bootcamp in 2024, and these were some of my favorite projects:</h4>
 
 - 📊 <a href="https://projectfinco.netlify.app/">Finco Expense Tracker</a> (Final Group Project React/Supabase) Login via johndoe at supercode.de PW: 123
 - 🎬 <a href="https://ourmoviedatabaseapp.netlify.app/">Movie Database App</a> (Final Group Project / React)
