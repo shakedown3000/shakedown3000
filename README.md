@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Anna</h1>
 
-<h3>A junior front-end developer working in a design agency based in Neuss/Germany called <a href="https://d-art-digital.de/de">d'art digital</a>. I create digital solutions for clients with a focus on trade fairs and events.</h3>
+A junior front-end developer working in a design agency based in Neuss/Germany called <a href="https://d-art-digital.de/de">d'art digital</a>.
+  
+I create digital solutions for clients with a focus on trade fairs and events.
 
 - 🌱 My tech stack focus: **TypeScript, React, Next.js, Sass**.
 
